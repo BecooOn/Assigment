@@ -3,5 +3,5 @@
  You can see them on live.
  I will add new a project every week.
 
-This is first assigment's deployment
+This is first assigment deployment
 https://becooon.github.io/Assigments/ss1/
