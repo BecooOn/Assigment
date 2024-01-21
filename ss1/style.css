@@ -94,7 +94,7 @@ img:hover {
   color: bisque;
 }
 .div p {
-  font-size: 1rem;
+  font-size: 15px;
   text-indent: 1.5rem;
   margin-bottom: 3rem;
   padding: 1rem;
@@ -127,7 +127,7 @@ img:hover {
   color: azure;
   background-image: linear-gradient(
     to right,
-    rgb(132, 0, 255),
+    rgb(0, 17, 255),
     rgb(255, 153, 0)
   );
   font-family: sans-serif;
